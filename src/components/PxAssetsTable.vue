@@ -144,7 +144,7 @@ th {
   font-size: 0.6rem;
 }
 
-@media (min-width: 640px) {
+@media (min-width: 450px) {
   td,
   th {
     padding: 20px;
