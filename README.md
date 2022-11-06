@@ -1,4 +1,4 @@
-# platzi-exchange
+## yahupc-exchange
 
 ## Project setup
 ```
