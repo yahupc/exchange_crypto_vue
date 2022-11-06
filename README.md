@@ -1,4 +1,4 @@
-## yahupc-exchange
+## yahupc-crypto_exchange
 
 ## Project setup
 ```
